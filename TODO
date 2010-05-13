@@ -1,0 +1,9 @@
+
+    · Make yield() only available inside the block
+    · Tests for import renaming
+    · Tests for implicit return value yield option
+    · Tests for multiple yielders of the same name
+    · Prototypes and Attributes
+    · Valid identifier checks
+    · Context checks during creation unless syntax can be () wrapped.
+    · Foreign package specifications
